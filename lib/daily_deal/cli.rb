@@ -1,5 +1,6 @@
 class DailyDeal::CLI
   def call
+    puts "Welcome to daily deal program."
   end
 
   def start
@@ -9,5 +10,5 @@ class DailyDeal::CLI
   def print
 
   end
-  
+
 end
